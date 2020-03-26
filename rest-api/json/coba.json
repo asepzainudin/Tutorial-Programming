@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Asep Zaninudin",
+        "umur" : 32,
+        "nrp" : "123456789",
+        "lulus" : true,
+        "hobby" : [
+            "Futsal",
+            "Berenang"
+        ],
+        "pembimbing":{
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erik Doank"
+        }
+    },
+    {
+        "nama": "Asep Zaninudin",
+        "umur" : 32,
+        "nrp" : "123456789",
+        "lulus" : true,
+        "hobby" : [
+            "Futsal",
+            "Berenang"
+        ],
+        "pembimbing":{
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erik Doank"
+        }    
+    }
+]
